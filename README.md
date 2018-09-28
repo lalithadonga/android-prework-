@@ -3,7 +3,7 @@
 ### Simulates an Android app that lets user enter in text with 3 buttons to change text, text color, background color, and set back to default. 
 
 ### App Walk-though
-
+![](prework.gif)
 <img src="https://i.imgur.com/qMGU0t3.gifv" width=200><br>
 
 ### Required User Stories
